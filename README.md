@@ -1,2 +1,2 @@
 # code
-it is my first logo
+it is my first repo
